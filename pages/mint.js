@@ -215,7 +215,7 @@ export default function Mint() {
               TWITTER
             </a>
             <a
-              href="https://discord.gg/8Wk9Hp6UyV"
+              href="https://discord.gg/8CsmAwc62Q"
               className="text-4xl text-white hover:text-black m-6"
             >
               DISCORD
