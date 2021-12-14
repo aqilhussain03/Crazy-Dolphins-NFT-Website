@@ -114,7 +114,7 @@ export default function Home() {
             </a>
             <a
               target="_blank"
-              href="https://discord.gg/8CsmAwc62Q"
+              href="https://discord.gg/GjKdFtuuWU"
               className="text-4xl  hover:text-white m-6 text-blau"
             >
               DISCORD
@@ -467,7 +467,7 @@ export default function Home() {
               <a
                 className="text-black underline font-bold"
                 target="_blank"
-                href="https://discord.gg/8CsmAwc62Q"
+                href="https://discord.gg/GjKdFtuuWU"
               >
                 Discord Server
               </a>
