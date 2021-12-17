@@ -377,6 +377,43 @@ export default function Home() {
         </div>
 
         <div id="team" className="mx-12 my-16 ">
+        <h2 className="text-7xl text-center Poppitandfinchsans text-blau my-4">
+            FEATURES
+        </h2>
+
+        <div className="flex justify-around flex-wrap">
+        <div className="flex flex-col  my-6" style={{ width: "360px" }}>
+
+        <a href="https://nftcalendar.io/event/crazy-dolphins-nft/">
+        <img alt="nftcalendar" src="images/nft_calendar.png"
+          width="150" height="70"/>
+        </a>
+        </div>
+        </div>
+        
+        <div className="flex justify-around flex-wrap">
+        <div className="flex flex-col  my-6" style={{ width: "360px" }}>
+
+        <a href="https://upcomingnft.net/event/crazy-dolphins-nft/">
+        <img alt="upcomingnft" src="images/upcomingnft.png"
+          width="250" height="80"/>
+        </a>
+        </div>
+        </div>
+
+        <div className="flex justify-around flex-wrap">
+        <div className="flex flex-col  my-6" style={{ width: "360px" }}>
+          <a href="https://www.nextnftdrop.com/projects/crazy-dolphins-nft/">
+         <img alt="nextnft" src="images/next_nft.png"
+          width="150" height="80"/>
+          </a>
+          </div>
+          </div>
+        </div>
+
+
+
+        <div id="team" className="mx-12 my-16 ">
           <h2 className="text-7xl text-center Poppitandfinchsans text-blau my-4">
             CORE TEAM
           </h2>
