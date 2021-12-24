@@ -384,7 +384,7 @@ export default function Home() {
         <div className="flex justify-around flex-wrap">
         <div className="flex flex-col  my-6" style={{ width: "360px" }}>
 
-        <a href="https://nftcalendar.io/event/crazy-dolphins-nft/">
+        <a target="_blank" href="https://nftcalendar.io/event/crazy-dolphins-nft/">
         <img alt="nftcalendar" src="images/nft_calendar.png"
           width="150" height="70"/>
         </a>
@@ -394,7 +394,7 @@ export default function Home() {
         <div className="flex justify-around flex-wrap">
         <div className="flex flex-col  my-6" style={{ width: "360px" }}>
 
-        <a href="https://upcomingnft.net/event/crazy-dolphins-nft/">
+        <a target="_blank" href="https://upcomingnft.net/event/crazy-dolphins-nft/">
         <img alt="upcomingnft" src="images/upcomingnft.png"
           width="250" height="80"/>
         </a>
@@ -403,7 +403,7 @@ export default function Home() {
 
         <div className="flex justify-around flex-wrap">
         <div className="flex flex-col  my-6" style={{ width: "360px" }}>
-          <a href="https://www.nextnftdrop.com/projects/crazy-dolphins-nft/">
+        <a target="_blank" href="https://www.nextnftdrop.com/projects/crazy-dolphins-nft/">
          <img alt="nextnft" src="images/next_nft.png"
           width="150" height="80"/>
           </a>
@@ -431,6 +431,7 @@ export default function Home() {
                 Aqil
               </h3>
               <a
+                target="_blank"
                 href="https://twitter.com/aqil_nft"
                 className="text-center text-4xl text-center Poppitandfinchsans underline text-white"
               >
@@ -451,6 +452,7 @@ export default function Home() {
                 Junaid
               </h3>
               <a
+                target="_blank"
                 href="https://twitter.com/Junaid_NFT_888"
                 className="text-center text-4xl text-center Poppitandfinchsans underline text-white"
               >
