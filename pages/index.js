@@ -184,7 +184,7 @@ export default function Home() {
           </div>
           <div className="flex flex-col items-center">
             <a
-              href="/mint"
+              href="https://www.mintcrazydolphinsnft.ml/"
               className="mt-4 Poppitandfinchsans text-4xl border-6 bg-blau  text-white hover:text-black p-2 "
             >
               GO TO MINTING PAGE!
