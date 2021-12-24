@@ -76,7 +76,7 @@ export default function Home() {
             </a>
             <a
               target="_blank"
-              href="/mint"
+              href="https://www.mintcrazydolphinsnft.ml/"
               className="text-4xl text-white hover:text-black m-6"
             >
               MINT!
