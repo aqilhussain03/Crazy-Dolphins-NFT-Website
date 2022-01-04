@@ -165,7 +165,7 @@ export default function Home() {
                 <span className="text-white text-2xl montserrat">
                   <strong>TOTAL SUPPLY: 10,000</strong> Crazy Dolphins.
                   <br />
-                  <strong>PUBLIC-SALE-PRICE: 49 POLYGON(MATIC) ONLY </strong>each. <br />{" "}
+                  <strong>PUBLIC-SALE-PRICE: 10 POLYGON(MATIC) ONLY </strong>each. <br />{" "}
                 </span>
               </p>
               <iframe
