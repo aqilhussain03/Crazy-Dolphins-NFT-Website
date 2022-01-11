@@ -165,16 +165,9 @@ export default function Home() {
                 <span className="text-white text-2xl montserrat">
                   <strong>TOTAL SUPPLY: 10,000</strong> Crazy Dolphins.
                   <br />
-                  <strong>PUBLIC-SALE-PRICE: 10 POLYGON(MATIC) ONLY </strong>each. <br />{" "}
+                  <strong>PUBLIC-SALE-PRICE: FREE MINT ONLY</strong><br />{" "}
                 </span>
               </p>
-              <iframe
-                src="https://free.timeanddate.com/countdown/i7vcex5b/n107/cf11/cm0/cu4/ct0/cs1/ca2/co0/cr0/ss0/cacfff/cpcfff/pct/tcfff/fn3/fs100/szw448/szh189/iso2021-12-30T21:00:00"
-                allowtransparency="true"
-                frameBorder="0"
-                width="425"
-                height="25"
-              ></iframe>
             </div>
             <img
               className="lg:w-1/2 w-3/4"
